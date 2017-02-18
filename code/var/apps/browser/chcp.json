@@ -1,7 +1,5 @@
 {
-  "name": "siberiancms",
-  "update": "resume",
-  "content_url": "PLATFORM_URL",
-  "min_native_interface": "1",
-  "release": "2016.08.08-11.57.02"
+    "content_url": "http://localhost:8098/var/apps/browser/",
+    "min_native_interface": "2",
+    "release": "4.8.11.2.1487456246"
 }

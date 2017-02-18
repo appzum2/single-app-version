@@ -158,7 +158,7 @@
     <preference name="FadeSplashScreen" value="true" />
     <preference name="FadeSplashScreenDuration" value="500" />
     <chcp>
-        <config-file url="PLATFORM_URL" />
+        <config-file url="http://localhost:8098/var/apps/ionic/ios/www/chcp.json" />
         <native-interface version="2" />
         <auto-download enabled="true" />
         <auto-install enabled="true" />

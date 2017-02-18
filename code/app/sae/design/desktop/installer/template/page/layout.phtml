@@ -45,7 +45,7 @@
     </head>
     <?php $errors = array(); ?>
     <?php $errors["permissions"] = Installer_Model_Installer::checkPermissions(); ?>
-    <?php $errors["extensions"] = Installer_Model_Installer::checkExtensions(); ?>
+    <!--?php $errors["extensions"] = Installer_Model_Installer::checkExtensions(); ?-->
     <?php $errors["php_version"] = Installer_Model_Installer::checkRequiredPhpVersion(); ?>
     <body class="<?php echo $this->default_class_name ?> general">
 

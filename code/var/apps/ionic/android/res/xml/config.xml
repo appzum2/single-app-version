@@ -96,7 +96,7 @@
     <allow-intent href="geo:*" />
     <allow-intent href="mailto:*" />
     <chcp>
-        <config-file url="PLATFORM_URL" />
+        <config-file url="http://localhost:8098/var/apps/ionic/android/assets/www/chcp.json" />
         <native-interface version="2" />
         <auto-download enabled="true" />
         <auto-install enabled="true" />
