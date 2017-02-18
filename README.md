@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PHPDocker.io generated environment
 ==================================
 
@@ -63,3 +64,7 @@ MySQL|appzum-mysql|3306 (default)
   * Kill containers: `docker-compose kill`
   * View container logs: `docker-compose logs`
   * Execute command inside of container: `docker exec -it appzum-php-fpm COMMAND` where `COMMAND` is whatever you want to run. For instance, `/bin/bash` to open a console prompt.
+=======
+# single-app-version
+This is single app version
+>>>>>>> 5e5d980b5b3008cf73aa4cbddaff246154a8d2ad
